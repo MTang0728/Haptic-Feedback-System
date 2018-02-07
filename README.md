@@ -11,6 +11,7 @@ The system uses a closed loop, where the first half of the loop is capture force
 For the first half of the loop:
 - A FSR is to be attached to the finger tip of the prosthetic arm to measure forces of up to 20 lbs.
 - The vibrating motor is to be attached to the rib cage area of the patient, each assigned based on the dermatonal region
+- The motor vibrates at an intensity that is proportional to the measured force
 * A total number of 5 pairs of sensor and motors are to be used. For the purpose of testing, only one pair has been built so far.
 
 For the second half of the loop:
