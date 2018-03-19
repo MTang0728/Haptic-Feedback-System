@@ -15,8 +15,15 @@ For the first half of the loop:
 * A total number of 5 pairs of sensor and motors are to be used. For the purpose of testing, only one pair has been built so far.
 
 For the second half of the loop:
-
+- This part is done physiologically with the efferent neural pathway. 
+- Different dermatonal regions pick up the vibrations their relative intensity
+- Patient CNS will process information, and use this feedback to modulate the applied force
 
 
 UPDATE
-The FSR was desensitized due to execessive loads during testing. A potentiometer was used temporarily to simulate a changing load.
+- The FSR was desensitized due to execessive loads during testing. A potentiometer was used temporarily to simulate a changing load.
+
+** March 19
+- updated README.md
+- the system now includes an OLED to display relevant information: Applied force in N, vibration lvl.
+
